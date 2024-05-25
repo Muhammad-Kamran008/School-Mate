@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172153749779",
+    "project_id": "school-mate-14132",
+    "storage_bucket": "school-mate-14132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172153749779:android:c94258a14de5a209d21ae6",
+        "android_client_info": {
+          "package_name": "com.example.school_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxvPS2P5dhh0-bXE3HIzKz8Xm72Hp91M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
